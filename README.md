@@ -18,7 +18,6 @@
 
 * 🎮 **TE-C-TRIS:** Jogo educacional desenvolvido em **C** que une a mecânica clássica do Tetris a desafios de lógica de programação em tempo real. Fui responsável pela arquitetura visual da gameplay, renderização de peças e menus.
 * 🥇 **Finalista do DemoDay (Porto Digital 2025):** Destaque com projeto focado em *Tecnologia e Inovação a Serviço da Educação*.
-* 🎨 **6ª Mostra TechDesign (CESAR School):** Desenvolvimento e apresentação de solução tecnológica inovadora para o mercado.
 
 ---
 
