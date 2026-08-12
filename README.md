@@ -2,11 +2,29 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Cec%C3%ADlia!;Estudante+de+ADS+na+CESAR+School;Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-[![Gmail](https://img.shields.io/badge/lopescecilia3107%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopescecilia3107@gmail.com)
+<div align="center"> 
+  
+<a href="mailto:lopescecilia3107@gmail.com"><img src="https://img.shields.io/badge/-Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cec%C3%ADlia-lopes3107)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cecilialopess)
+</div> 
 
 </div>
+<p align="center">
+  <a href="https://github.com/cecilialopess?tab=repositories">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=cecilialopess&show_icons=true&rank_icon=github&hide_border=false&bg_color=1A1326&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&border_color=8B5CF6"
+      height="165"
+    />
+  </a>
+
+  <a href="https://github.com/cecilialopess?tab=repositories">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=cecilialopess&layout=compact&langs_count=8&hide_border=false&bg_color=1A1326&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7&border_color=8B5CF6"
+      height="180"
+    />
+  </a>
+</p>
 
 ### 👩‍💻 Sobre mim
 
@@ -107,9 +125,3 @@ Iniciativa da Prefeitura do Recife, em parceria com a CESAR School e apoio do UK
 
 ---
 
-<div align="center">
-
-![Cecília's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecilialopess&show_icons=true&hide_border=false&bg_color=1A1326&title_color=A855F7&text_color=D8B4FE&icon_color=A855F7)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecilialopess&layout=compact&hide_border=false&bg_color=1A1326&title_color=A855F7&text_color=D8B4FE)
-
-</div>
