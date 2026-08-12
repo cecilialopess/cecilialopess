@@ -58,13 +58,20 @@
 
 ## 🎓 Formação Acadêmica
 
-**Análise e Desenvolvimento de Sistemas** *(Graduanda — 3º período)*
-**CESAR School** • Bolsista Integral — Programa Embarque Digital
-`Lógica de Programação` `Desenvolvimento Web` `Banco de Dados`
+[<img align="left" height="64px" width="64px" alt="Warpnet" src="https://tse2.mm.bing.net/th/id/OIP.dpWOXcBxMjKUIZAIeVsydQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.cesar.school/)
 
-**Residência Tecnológica — Porto Digital**
-Programa Embarque Digital
-`Metodologias Ágeis` `Scrum` `Trabalho em Equipe`
+**Análise e Desenvolvimendo de Sistemas (Graduanda)** \
+[**CESAR School**](https://www.cesar.school/) • Tecnólogo \
+`Lógica de Programação e Algoritmos`, `Engenharia de Software`, `Desenvolvimento Web`. \
+<br/> 
+
+[<img align="left" height="64px" width="64px" alt="Warpnet" src="https://tse4.mm.bing.net/th/id/OIP.JZY8l4WhTa7Gy9G0E6IXTAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://www.portodigital.org/)
+
+**Residência Tecnólogica do Porto Digital** \
+[**Porto Digital**](https://www.portodigital.org/) • Embarque Digital \
+`Empregabilidade`, `Tecnologia`, `Inovação`. \
+<br/> 
+
 
 **Ensino Médio Técnico em Multimídia**
 ETE Ginásio Pernambucano
