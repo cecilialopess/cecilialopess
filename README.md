@@ -113,7 +113,7 @@ Iniciativa da Prefeitura do Recife, em parceria com a CESAR School e apoio do UK
 ![Parceria](https://img.shields.io/badge/Parceria-Prefeitura_do_Recife-00B89F?style=flat-square)
 ![Apoio](https://img.shields.io/badge/Apoio-UK--Brazil_Tech_Hub-C8102E?style=flat-square)
 
-### Dupla Vitória no Mostra Tech Design 2026.1 | [TECTRIS](https://github.com/alicessena/TECTRIS)
+### Dupla Vitória no Mostra Tech Design 2026.1 | [TECTRIS](https://github.com/TE-C-TRIS)
 
 ![](https://img.shields.io/badge/🏆-Vencedora-FFD700?style=flat-square)
 ![](https://img.shields.io/badge/🌟-Projeto%20Destaque-FF69B4?style=flat-square)
