@@ -73,9 +73,10 @@ Residência Tecnológica Porto Digital (Kick Off 2025.2) — protótipo de inter
 ### Coday Porto Digital 2026.1 | Saúde Mais
 Sistema de gestão de estoque hospitalar desenvolvido **do zero** na plataforma **ServiceNow**, para o desafio proposto pela **Capgemini** — modelagem de tabelas, Business Rules e fluxo de aprovação via Flow Designer.
 
-![ServiceNow](https://img.shields.io/badge/Plataforma-ServiceNow-62D84E?style=flat-square)
-![Low-code](https://img.shields.io/badge/Low--code-Full_Stack-0A66C2?style=flat-square)
-![Empresa](https://img.shields.io/badge/Desafio-Capgemini-1E88E5?style=flat-square)
+![](https://img.shields.io/badge/🏆-Vencedora-FFD700?style=flat-square)
+![](https://img.shields.io/badge/🌟-Equipe%20e%20Projeto%20Destaque-FF69B4?style=flat-square)
+![](https://img.shields.io/badge/Evento-Coday%20Porto%20Digital-6F42C1?style=flat-square)
+![](https://img.shields.io/badge/Organização-Porto%20Digital%20%7C%20Capgemini-0A66C2?style=flat-square)
 
 📺 [Ver demonstração do sistema](https://youtu.be/1VI3UBBajM4)
 
@@ -86,11 +87,13 @@ Iniciativa da Prefeitura do Recife, em parceria com a CESAR School e apoio do UK
 ![Parceria](https://img.shields.io/badge/Parceria-Prefeitura_do_Recife-00B89F?style=flat-square)
 ![Apoio](https://img.shields.io/badge/Apoio-UK--Brazil_Tech_Hub-C8102E?style=flat-square)
 
-### Projeto TE-C-TRIS | [Repositório](https://github.com/TE-C-TRIS)
-Jogo educacional desenvolvido em C, focado em lógica de programação e manipulação de matrizes/dados em tempo real.
+### Dupla Vitória no Mostra Tech Design 2026.1 | [TECTRIS](https://github.com/alicessena/TECTRIS)
 
-![C](https://img.shields.io/badge/Linguagem-C-00599C?style=flat-square)
-![Educacional](https://img.shields.io/badge/Tipo-Jogo_Educacional-6F42C1?style=flat-square)
+![](https://img.shields.io/badge/🏆-Vencedora-FFD700?style=flat-square)
+![](https://img.shields.io/badge/🌟-Projeto%20Destaque-FF69B4?style=flat-square)
+![](https://img.shields.io/badge/Categoria-Programação%20Imperativa%20Funcional-2EA44F?style=flat-square)
+![](https://img.shields.io/badge/Categoria-Engenharia%20de%20Software-2EA44F?style=flat-square)
+![](https://img.shields.io/badge/Organização-CESAR%20School-0A66C2?style=flat-square)
 
 ---
 
