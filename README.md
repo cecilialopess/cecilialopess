@@ -72,11 +72,12 @@
 `Empregabilidade`, `Tecnologia`, `Inovação`. \
 <br/> 
 
+<img  src="https://github.com/user-attachments/assets/433503c4-9e12-4cba-89ab-246646e7c921" align="left" height="65px" alt="Logo ETE Ginásio Pernambucano"/>
 
-**Ensino Médio Técnico em Multimídia**
-ETE Ginásio Pernambucano
-
----
+**Ensino Médio Técnico em Multimídia** \
+**ETE Ginásio Pernambucano** • Educação Técnica \
+`Design`, `Audiovisual`, `Comunicação`. \
+<br/>
 
 ## 💼 Experiência Profissional
 
@@ -131,4 +132,5 @@ Iniciativa da Prefeitura do Recife, em parceria com a CESAR School e apoio do UK
 ![AWS Data](https://img.shields.io/badge/Engenharia_de_Dados_AWS-CESAR_School-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
+
 
